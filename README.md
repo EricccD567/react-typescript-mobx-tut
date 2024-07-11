@@ -1,6 +1,6 @@
-# mobx-react-typescript-tutorial
+# react-typescript-mobx-tut
 
-MobX Tutorial with React and Typescript
+MobX Tutorial with React and Typescript.
 
 Tutorial by Leo Roese: <https://www.youtube.com/watch?v=ElgfQdq-Htk>
 
